@@ -1,1 +1,0 @@
-# queryit-ai-frontend-app
